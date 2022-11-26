@@ -1,3 +1,3 @@
 # MiddleNote
 
-## front-end 초기 상태
+## 아베시 프로젝트 
